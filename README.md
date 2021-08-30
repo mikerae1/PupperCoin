@@ -1,6 +1,6 @@
 # PupperCoin
 
-![image](screenshots/eth_gone.png)
+![image](Screenshots/eth_gone.png)
 
 ## Background
 Your company has decided to crowdsale their PupperCoin token in order to help fund the network development.
@@ -10,16 +10,16 @@ This network will be used to track the dog breeding activity across the globe in
 
 Deploying Puppercoin
 
-![image](screenshots/deploy_puppercoin.PNG)
+![image](Screenshots/deploy_puppercoin.PNG)
 
 PupperCoinCrowdsale Code
 
-![image](screenshots/crowdsale_code.gif)
+![image](Screenshots/crowdsale_code.gif)
 
 Deploying Puppercoin
 
-![image](screenshots/set_up_deploy.PNG)
+![image](Screenshots/set_up_deploy.PNG)
 
 Deployed code
 
-![image](screenshots/deployed.PNG)
+![image](Screenshots/deployed.PNG)
