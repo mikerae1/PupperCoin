@@ -1,6 +1,6 @@
 # PupperCoin
 
-![image](screenshots/eth_gone.PNG)
+![image](screenshots/eth_gone.png)
 
 ## Background
 Your company has decided to crowdsale their PupperCoin token in order to help fund the network development.
